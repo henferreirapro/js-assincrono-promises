@@ -5,6 +5,6 @@
 
 <h2>CallBacks</h2>
 <p>
-  Conceito de Callbacks é uma função que é passada como argumento para outra função e depois de algumas outras tarefas ela é chamada de volta. <a href="https://github.com/henferreirapro/js-assincrono-promises/blob/main/callbacks/callback.md">Saiba mais</a>
+  Conceito de Callbacks é uma função que é passada como argumento para outra função e depois de algumas outras tarefas ela é chamada de volta. <a href="https://github.com/henferreirapro/js-assincrono-promises/tree/main/callbacks">Saiba mais</a>
 </p>
 
