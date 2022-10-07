@@ -8,3 +8,7 @@
   Conceito de Callbacks é uma função que é passada como argumento para outra função e depois de algumas outras tarefas ela é chamada de volta. <a href="https://github.com/henferreirapro/js-assincrono-promises/tree/main/callbacks">Saiba mais</a>
 </p>
 
+<h2>SetTimeout</h2>
+<p>
+  SetTimeout serve para Executar uma  função  depois de determinado tempo, como um Delay. <a href="https://github.com/henferreirapro/js-assincrono-promises/blob/main/set-timeout">Exemplo de SetTimeout</a>
+<p>
