@@ -5,5 +5,5 @@
 
 <h2>CallBacks</h2>
 <p>
-  Conceito de Callback é uma função que é passada como argumento para outra função e depois de algumas outras tarefas ela é chamada de volta. <a href="./callBacks/callback.md">Saiba mais</a>
 </p>
+
