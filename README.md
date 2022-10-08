@@ -12,3 +12,6 @@
 <p>
   SetTimeout serve para Executar uma  função  depois de determinado tempo, como um Delay. <a href="https://github.com/henferreirapro/js-assincrono-promises/blob/main/set-timeout">Exemplo de SetTimeout</a>
 <p>
+
+<h2>Conectando API com HTTPS e Callback</h2>
+<p style='text-align: center;'>🚧 Irei add um GIF da execão 🚧</p>
