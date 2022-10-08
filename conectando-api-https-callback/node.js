@@ -12,6 +12,8 @@ console.log("Conectando API")
   // Conectando API
   // 200
 
-// Quando a linha 4 é executada o JS entende que é uma Callback 
-// então continua lendo as linhas até o final e assim que terminar
-// ele volta na linha 4 caso finalizado ele executa o resultado
+/** 
+  Quando a linha 4 é executada o JS entende que é uma Callback 
+  então continua lendo as linhas até o final e assim que terminar
+  ele volta na linha 4 caso finalizado ele executa o resultado
+*/
