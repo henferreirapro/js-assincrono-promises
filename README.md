@@ -15,3 +15,6 @@
 
 <h2>Conectando API com HTTPS e Callback</h2>
 <p style='text-align: center;'>🚧 Irei add um GIF da execão 🚧</p>
+
+<h2>O que São Promises</h2>
+<p>Futuro Link para o conteúdo</p>
